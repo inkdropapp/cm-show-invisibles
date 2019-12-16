@@ -1,5 +1,5 @@
 {
-  "name": "@craftzdog/cm-show-invisibles",
+  "name": "@inkdropapp/cm-show-invisibles",
   "version": "2.0.3",
   "description": "Addon for CodeMirror that helps to show invisibles.",
   "main": "legacy/show-invisibles.js",
